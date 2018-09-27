@@ -32,9 +32,9 @@ namespace CoreAppNet
             {
                 c.SwaggerDoc("v1", new Info
                 {
-                  Title = "CoreApp API",
+                  Title = "Core API",
                   Version = "v1",
-                  Description = "A simple example ASP.NET Core Web API",
+                  Description = "Web API principal",
                   TermsOfService = "None",
                   Contact = new Contact
                   {
