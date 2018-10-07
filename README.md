@@ -1,6 +1,10 @@
-# MainRep
-Every projects here!!! simple...
+# Repositorio Principal
 
-This repo contains some samples of code from many languages.
+1. Proyectos de entrenamiento.
+2. Proyectos personales.
+3. Manuales de estudio (Agrega algunos para mí)
+4. Ideas para el futuro...
 
-GDEx.
+(This repo contains some samples of code from many languages.)
+
+[**GeDragon**].
