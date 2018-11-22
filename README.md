@@ -8,3 +8,9 @@
 (This repo contains some samples of code from many languages.)
 
 [**GeDragon**].
+
+
+git clone [url] [directory]
+cd [directory]
+git init .
+git push -u origin master
