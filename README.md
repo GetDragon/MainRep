@@ -9,8 +9,8 @@
 
 [**GeDragon**].
 
-
-git clone [url] [directory]
-cd [directory]
-git init .
-git push -u origin master
+# Git commands
+- git clone [url] [directory]
+- cd [directory]
+- git init .
+- git push -u origin master
